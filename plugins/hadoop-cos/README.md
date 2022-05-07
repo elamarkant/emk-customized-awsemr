@@ -9,10 +9,10 @@ Hadoop-COS实现了以腾讯云 COS 作为底层文件系统运行上层计算�
 
 ## 使用环境
 ### 软件依赖
-已打包Amazon EMR需要的Hadoop-3.2.1版本
-Hadoop-2.6.0及以上版本
-如果各位希望使用EMR 5系列，可能需要自己打包相关版本，因为后期版本的EMR 5系列使用了比较少见的Hadoop 2.10版本；
-建议各位还是使用EMR 6系列，因为Hadoop 3.0开始，除了AWS以外，Aliyun和Azure的对象存储也在默认支持列表里，不需要额外安装jar包了；
+已打包Amazon EMR需要的Hadoop-3.2.1版本 
+Hadoop-2.6.0及以上版本 
+如果各位希望使用EMR 5系列，可能需要自己打包相关版本，因为后期版本的EMR 5系列使用了比较少见的Hadoop 2.10版本； 
+建议各位还是使用EMR 6系列，因为Hadoop 3.0开始，除了AWS以外，Aliyun和Azure的对象存储也在默认支持列表里，不需要额外安装jar包了； 
 希望Amazon EMR早日升级到Hadoop 3.3；
 
 **NOTE**：
