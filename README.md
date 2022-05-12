@@ -4,6 +4,7 @@ customized and automation for aws emr service
 > - DIR structure
 > > - Plugins for customized plugins to AWS EMR
 > > - Bootstraps for bootstrap scripts for AWS EMR
+> > - Lambda for lambda scripts to automated EMR operation
 > > - more will be added
 
 Here comes the customized EMR repo for me to automation and enhance EMR operation on AWS
